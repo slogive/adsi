@@ -46,6 +46,7 @@
 | AP06-AA7-EV06  |               | Inglés Taller. Reconociendo el lugar de trabajo.                                                                                               |   ❌   |
 |                |               |                                                                                                                                                |        |
 | AP07-AA8-EV02  |               | Codificación de los módulos del sistema de información en el lenguaje seleccionado                                                             |   ❌   |
+| AP07-AA8-EV03  | Foro          | Plataformas de desarrollo de software                                                                                                          |   ✅   |
 | AP07-AA8-EV04  | Transversal   | Cartilla: Técnicas de cultura física en el desempeño laboral                                                                                   |   ❌   |
 |                |               |                                                                                                                                                |        |
 | AP08-AA9-EV02  |               | Informe cumplimiento de la negociación tecnológica                                                                                             |   ❌   |
