@@ -35,6 +35,7 @@
 | AP05-AA6-EV02  |               | Diseño de arquitectura de software y hardware para el sistema de información en desarrollo                                                     |   ❌   |
 | AP05-AA6-EV03  |               | Identificación de los puntos críticos del sistema de información en desarrollo                                                                 |   ❌   |
 | AP05-AA6-EV04  |               | Elaboración de cláusulas técnicas para contratación del hardware, software y servicios requeridos para el sistema de información en desarrollo |   ❌   |
+| AP05-AA6-EV05  | Foro          | Arquitectura del software del sistema de información                                                                                           |   📤   |
 | AP05-AA6-EV06  | Inglés        | Construcción de un glosario técnico en inglés para el área ocupacional                                                                         |   ❌   |
 | AP05-AA6-EV07  | Transversal   | Estudio de caso. Residuos posconsumo                                                                                                           |   ❌   |
 |                |               |                                                                                                                                                |        |
